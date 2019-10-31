@@ -41,7 +41,7 @@
 			
 			In the worst case, we can observe the following:
 			
-			The bottom-up approach hold its time complexity, that of O(n), making it useful even in the worst scenario.
+			The bottom-up approach holds its time complexity, that of O(n), making it useful even in the worst scenario.
 
 			In the other case, we can see that the top-down method proves to be ineffective in this case,
 			making it not a good choice for such input data.
